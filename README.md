@@ -47,7 +47,7 @@ pcybox/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/pcybox.git
+git clone https://github.com/pcybox/pcybox_redteamcli.git
 cd pcybox
 pip install -r requirements.txt
 ```
@@ -103,10 +103,10 @@ PCYBOX will generate the attack path, associated TTPs, detection rules, and pack
 ## 🤝 Contributions
 
 Contributions, suggestions, and bug reports are welcome!  
-Please open an issue or pull request on [GitHub](https://github.com/your-username/pcybox).
+Please open an issue or pull request on [GitHub](https://github.com/pcybox/pcybox_redteamcli.git).
 
 ---
 
 ## 📜 License
 
-MIT License © [Your Name or Team]
+MIT License © [Mister__iks](https://github.com/Mister-iks)
